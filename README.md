@@ -1,5 +1,6 @@
 # 💫 About Me:
 I’m Mohammad Jamal, an enthusiastic Data Science and Artificial Intelligence learner committed to turning data into meaningful insights and building smart, impactful solutions. <br>I’m currently exploring the fascinating fields of AI and Machine Learning.
+Solved 500+ DSA Problems on GFG and LeetCode (in C++).
 
 
 ## 🌐 Socials:
